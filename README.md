@@ -1,0 +1,1 @@
+# ga-8-pre-commit-hook-ci-gate
